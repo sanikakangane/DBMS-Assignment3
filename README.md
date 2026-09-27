@@ -112,4 +112,4 @@ This case study shows how a manual record-keeping system in a small Kirana store
 
 ## Author
 
-**Sanika Kangane 🧑‍💻**
+**Sanika Kangane 👩🏻‍💻**
